@@ -1,9 +1,10 @@
 .center {
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   justify-content: center;
+  flex-direction: row;
 }
 
 h1 {
